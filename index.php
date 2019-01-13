@@ -9,7 +9,7 @@
         <?php
         echo "Esta es una prueba para GitHub";
         echo "Otra linea";
-        echo "Linea visible en GitHub";
+        echo "Linea visible en GitHub real";
         ?>
     </body>
 </html>
